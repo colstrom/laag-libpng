@@ -3,7 +3,7 @@
 
 * Overview
 
-  ~laag-libpng~ packages [[https://libpng.sourceforge.io/][libpng] as a Ruby Gem, using [[https://github.com/colstrom/laag][laag]].
+  ~laag-libpng~ packages [[https://libpng.sourceforge.io/][libpng]] as a Ruby Gem, using [[https://github.com/colstrom/laag][laag]].
 
 * Updating this Package
 
