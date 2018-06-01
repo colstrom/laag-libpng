@@ -22,6 +22,7 @@ module LAAG
   def self.libpng
     @@libpng ||= Library.new(
       gem_root: LIBPNG_GEM_ROOT,
+      name:     'libpng',
       origin:   LIBPNG_ORIGIN,
       version:  LIBPNG_VERSION
     )
